@@ -1,0 +1,2 @@
+This is a test using vim in git bash window
+And opened on VS code
